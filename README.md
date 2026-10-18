@@ -1,6 +1,6 @@
 # Yan Qiao - Academic CV Website
 
-This is a lightweight academic website for **Yan Qiao (乔焰)**, Associate Professor and Ph.D. Supervisor at Hefei University of Technology. Its design follows the simple academic/Jemdoc style used by the [Meng Li CV site](https://github.com/IINSLab/MengLi_CV.github.io).
+This is a lightweight academic website for **Yan Qiao (乔焰)**, Associate Professor and Ph.D. Supervisor at Hefei University of Technology. 
 
 ## Files
 
